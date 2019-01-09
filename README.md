@@ -11,4 +11,4 @@ https://qiita.com/qwertytoki/items/02fc958131e5bc190982
 
 Flutterでぶつかったエラーの解決法まとめ
 https://qiita.com/qwertytoki/items/2f3b11d4afd6db8ad917
-   * type 'List<dynamic>' is not a subtype of type 'List<String>'
+   * `type 'List<dynamic>' is not a subtype of type 'List<String>'`
